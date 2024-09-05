@@ -28,7 +28,7 @@ with video:
 
 with text:
     st.write(
-    "Per il compleanno ho fatto un po' di bricolagio."
+    "Per il compleanno ho fatto un po' di bricolage."
     )
     st.write(
         "Per l'anniversario fammi essere un po' nerd :nerd_face:"
