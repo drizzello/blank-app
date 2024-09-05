@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Anniversario", page_icon=":banana:", layout="centered", initial_sidebar_state="auto", menu_items=None)
 
 
-st.title("🎈 Buon anniversario Banana :two:")
+st.title(":two:🎈 Buon anniversario!")
 video_file = open("003F5C47-B4F6-42FC-A507-AFFAF3C834A9.MOV", "rb")
 video_bytes = video_file.read()
 
