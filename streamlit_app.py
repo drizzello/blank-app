@@ -6,9 +6,9 @@ video_bytes = video_file.read()
 
 
 
-opzione_1 = "/workspaces/blank-app/Opzione 1-1.pdf"
-opzione_2 = "/workspaces/blank-app/Opzione 1-2.pdf"
-opzione_3 = "/workspaces/blank-app/Opzione 1-3.pdf"
+opzione_1 = "Opzione 1-1.pdf"
+opzione_2 = "Opzione 1-2.pdf"
+opzione_3 = "Opzione 1-3.pdf"
 
 
 with open(opzione_1, "rb") as pdf_file:
