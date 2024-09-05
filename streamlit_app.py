@@ -43,12 +43,12 @@ with text:
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        st.download_button("Opzione 1", document1, file_name="opzione1")
+        st.download_button("Opzione 1", document1, file_name="opzione1.pdf")
 
     with col2:
-        st.download_button("Opzione 2", document2, file_name="opzione2")
+        st.download_button("Opzione 2", document2, file_name="opzione2.pdf")
 
     with col3:
-        st.download_button("Opzione 3", document3, file_name="opzione3")
+        st.download_button("Opzione 3", document3, file_name="opzione3.pdf")
 
 
